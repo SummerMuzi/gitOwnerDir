@@ -1,5 +1,0 @@
-hello world git
-i want to try git stash
-so i write this txt.
-now is 18:15.
-
