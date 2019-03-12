@@ -1,0 +1,6 @@
+Go语言学习资料整理 
+http://www.itfanr.cc/2017/03/31/learning-golang/
+go-fundamental-programming
+https://github.com/Unknwon/go-fundamental-programming
+https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/02.7.md
+https://github.com/Unknwon/go-study-index
